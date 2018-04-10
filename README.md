@@ -1,7 +1,7 @@
 Skrumble Client Library for PHP
 =================================
 
-This library requires a minimum PHP version of 5.6 
+*This library requires a minimum PHP version of 5.6* 
 
 This is the PHP client library to use of Skrumble's API. To use this, you'll need a Skrumble Developer Account. Sign up for [an account at developers.skrumble.com](https://developer.skrumble.com). This is currently under a beta release, see [contributing](contributing.md) for more information.
 
