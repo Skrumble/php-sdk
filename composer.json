@@ -1,0 +1,12 @@
+{
+    "name": "skrumble/php-sdk",
+    "description": "SDK for 3rd party developers wanting to use the Skrumble API in their PHP Application.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael  Dabydeen",
+            "email": "michael@skrumble.com"
+        }
+    ],
+    "require": {}
+}
