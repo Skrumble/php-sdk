@@ -1,12 +1,28 @@
 {
     "name": "skrumble/php-sdk",
     "description": "SDK for 3rd party developers wanting to use the Skrumble API in their PHP Application.",
-    "license": "MIT",
+    "license": "",
     "authors": [
         {
             "name": "Michael  Dabydeen",
-            "email": "michael@skrumble.com"
+            "email": "michael@skrumble.com", 
+            "homepage": "https://skrumble.com",
+            "role": "Developer"
         }
     ],
-    "require": {}
+    "support": {
+        "email": "support@skrumble.com"
+    },
+    "require": {
+        "php": ">=5.6.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Skrumble\\": "src/"
+        }
+    }
 }
